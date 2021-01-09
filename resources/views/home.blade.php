@@ -12,6 +12,7 @@
                         </div>
                     @endif
 <p>Welcome</p>
+<br>
                     {{ __('You are logged in!') }}
                 </div>
             </div>
